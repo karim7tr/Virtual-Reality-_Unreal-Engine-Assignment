@@ -39,7 +39,7 @@ These specifications define the grid layout and dimensions of the landscape, pro
 
 1. **Project Setup:**
    - Open Unreal Engine 4.27 and access the project folder.
-   - Launch the project file (e.g., YourProjectName.uproject).
+   - Launch the project file.
 
 2. **Landscape Configuration:**
    - Use the Landscape tool to establish the landscape based on the specified dimensions.
